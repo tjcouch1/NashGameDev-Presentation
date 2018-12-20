@@ -1,0 +1,22 @@
+Sprites
+Backgrounds
+Global Game Settings
+obj_block
+obj_zombie
+obj_bullet
+	movement
+	collision
+obj_player
+	mask
+	movement-7
+	animation-8
+		player_animate
+	draw
+	shooting
+	reloading
+	status
+obj_hud
+obj_zombie
+obj_spawner
+room 640x480
+	view 240x180, 720x540
